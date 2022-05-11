@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <channel>
+        <title><![CDATA[realinvisibleg - Communication]]></title>
+        <description><![CDATA[Social Media, News & Other forms of communication]]></description>
+        <link>https://realinvisibleg.tribeplatform.com</link>
+        <image>
+            <url>https://tribe-s3-production.imgix.net/tlw3jRyZwj2HRqqMegCyH?w=500&amp;auto=compress,format&amp;dl</url>
+            <title>realinvisibleg - Communication</title>
+            <link>https://realinvisibleg.tribeplatform.com</link>
+        </image>
+        <generator>Tribe RSS Generator</generator>
+        <lastBuildDate>Wed, 11 May 2022 17:48:00 GMT</lastBuildDate>
+        <atom:link href="https://realinvisibleg.tribeplatform.com/rss/cobtz8x0UINa/posts" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 11 May 2022 17:48:00 GMT</pubDate>
+        <copyright><![CDATA[2022 realinvisibleg]]></copyright>
+        <language><![CDATA[en-US]]></language>
+        <ttl>60</ttl>
+        <webfeeds:icon>https://tribe-s3-production.imgix.net/tlw3jRyZwj2HRqqMegCyH?w=500&amp;auto=compress,format&amp;dl</webfeeds:icon>
+        <webfeeds:related layout="card" target="browser"/>
+    </channel>
+</rss>
